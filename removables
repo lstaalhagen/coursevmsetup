@@ -4,3 +4,4 @@ cups-browsed.service
 ModemManager.service
 ufw.service
 unattended-upgrades.service
+wpa_supplicant.service
