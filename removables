@@ -8,4 +8,4 @@ unattended-upgrades.service
 wpa_supplicant.service
 chrony.service
 apt-daily.timer
-apt-daily-upgrades.timer
+apt-daily-upgrade.timer
