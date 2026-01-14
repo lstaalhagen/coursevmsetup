@@ -1,11 +1,12 @@
 avahi-daemon.service
 avahi-daemon.socket
+chrony.service
 cups.service
 cups-browsed.service
 ModemManager.service
+openvpn.service
 ufw.service
 unattended-upgrades.service
 wpa_supplicant.service
-chrony.service
 apt-daily.timer
 apt-daily-upgrade.timer
