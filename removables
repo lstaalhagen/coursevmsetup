@@ -1,8 +1,13 @@
 avahi-daemon.service
 avahi-daemon.socket
-chrony.service
-cups.service
+cloud-config.service
+cloud-final.service
+cloud-init-local.service
+cloud-init.service
+cloud-init-hotplugd.socket 
 cups-browsed.service
+cups.service
+cups.socket
 ModemManager.service
 openvpn.service
 ufw.service
