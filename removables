@@ -9,7 +9,6 @@ cups-browsed.service
 cups.service
 cups.socket
 ModemManager.service
-openvpn.service
 ufw.service
 unattended-upgrades.service
 wpa_supplicant.service
